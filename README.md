@@ -9,7 +9,7 @@ The goal of the project was to showcase our data management and analysis skills 
 </p>
 
 
-This pdf contains the project instructions as well as my contributions. I had to write SQL queries to find all the records that matched the given cases. I've also included test cases and results.
+This [pdf](./CS336-Election-Project.pdf) contains the project instructions as well as my contributions. I had to write SQL queries to find all the records that matched the given cases. I've also included test cases and results.
 
 
 ## Fields 
