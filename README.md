@@ -16,4 +16,8 @@ This pdf contains the project instructions as well as my contributions. I had to
 
 Each record contains the following fields.
 
+<p align="center">
+  <img src="./extras/fields.png" width="316" height="252"/>
+</p>
+
 The voter records are organized based on the precinct and time the data was obtained. 
