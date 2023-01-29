@@ -4,7 +4,13 @@ This was my final project for my university class on [databases](https://www.cs.
 
 The goal of the project was to showcase our data management and analysis skills by writing complex queries from scratch. I utilized stored procedures and triggers to write API calls to the MySQL server that contained the database of 486,413 voting records from the state of Pennsylvania.
 
+<p align="center">
+  <img src="./extras/trumpbiden.gif" width="370" height="208"/>
+</p>
+
+
 This pdf contains the project instructions as well as my contributions. I had to write SQL queries to find all the records that matched the given cases. I've also included test cases and results.
+
 
 ## Fields 
 
