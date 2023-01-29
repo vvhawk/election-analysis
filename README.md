@@ -23,3 +23,9 @@ Each record contains the following fields.
 </p>
 
 The voter records are organized based on the precinct and time the data was obtained. 
+
+## Credits
+
+Instructor  
+[Tomasz Imielinski](https://www.cs.rutgers.edu/people/professors/details/tomasz-imielinski)
+
